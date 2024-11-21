@@ -6,11 +6,23 @@ Ventolin_Cleaned
 - it involves, adding columns, removing NAs and duplicates
 - it includes conversion of values and renaming labels of associated converted values
 
+Ventolin_Cleaned_2024
+- Similar to Ventolin_Cleaned, but specific for 2024 data.
+- it involves, adding columns, removing NAs and duplicates
+- it includes conversion of values and renaming labels of associated converted values
+
 Ventolin_EDA
 - this includes the exploratory data analysis charts
-- it includes line graphs, bar charts and wordclouds
-- some were implemented by age-specific categories
+- it includes histograms, proportions charts and wordcloud frequency charts
+- some were implemented by age-specific categories, others were speculative but not included in the final analysis such as the gender word cloud frequencies.
 
-Ventolin_AssociRuleMining_pt
+Ventolin_AssocRuleMining_pt
 - This involves the analysis by association rule mining.
 - including analysis by specific age groups.
+
+Ventolin_Random Forest
+- Comprises of Random Forest Predictive Model
+- Includes Models for two different scnearios with 100 and 1000 Trees respectively.
+
+Ventolin_ARIMA
+- Comprises of ARIMA Predictive Model
