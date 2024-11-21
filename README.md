@@ -1,5 +1,6 @@
 Loading faers files_final
 - This is the data extraction and loading code. all the file paths refer to locations on my local computer.
+- data files can be downloaded from https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html
 
 Ventolin_Cleaned
 - This code cleaned the dataframe created from Loading faers files_final
