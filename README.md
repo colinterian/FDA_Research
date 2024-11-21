@@ -1,3 +1,5 @@
+PYTHON NOTEBOOK FILES
+
 Loading faers files_final
 - This is the data extraction and loading code. all the file paths refer to locations on my local computer.
 - data files can be downloaded from https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html
@@ -27,3 +29,18 @@ Ventolin_Random Forest
 
 Ventolin_ARIMA
 - Comprises of ARIMA Predictive Model
+
+
+DATA FILES
+
+Final_df.csv
+- This file contains all historical raw data from 2013 through to 2023. This is what is generated from the Loading faers files_final code.
+
+Final_df_2024.csv
+- Final_df.csv, but for 2024 only.
+
+Ventolin_df.csv
+- This file contains all data after Ventolin_Cleaned.ipynb is executed.
+
+Ventolin_df_2024.csv
+- Ventolin_df.csv, but for 2024 only.
